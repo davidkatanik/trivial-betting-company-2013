@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2013.01.19 12:10:55.841.cpp,C:\Users\David\Documents\Borland Studio Projects\Unit1.cpp=C:\Users\David\Documents\Borland Studio Projects\Sazkova Kancelář\form_prihlaseni.cpp</Transaction>
+    <Transaction>2013.01.19 12:10:55.841.h,C:\Users\David\Documents\Borland Studio Projects\Unit1.h=C:\Users\David\Documents\Borland Studio Projects\Sazkova Kancelář\form_prihlaseni.h</Transaction>
+    <Transaction>2013.01.19 12:10:55.841.dfm,C:\Users\David\Documents\Borland Studio Projects\Unit1.dfm=C:\Users\David\Documents\Borland Studio Projects\Sazkova Kancelář\form_prihlaseni.dfm</Transaction>
+    <Transaction>2013.01.19 12:11:03.650.bdsproj,C:\Users\David\Documents\Borland Studio Projects\Project1.bdsproj=C:\Users\David\Documents\Borland Studio Projects\Sazkova Kancelář\project_sazkova_kancelar.bdsproj</Transaction>
+    <Transaction>2013.01.19 12:14:39.047.cpp,C:\Users\David\Documents\Borland Studio Projects\Sazkova Kancelář\Sazkova_Kancelar_Registrace.cpp=C:\Users\David\Documents\Borland Studio Projects\Sazkova Kancelář\form_registrace.cpp</Transaction>
+    <Transaction>2013.01.19 12:14:39.047.h,C:\Users\David\Documents\Borland Studio Projects\Sazkova Kancelář\Sazkova_Kancelar_Registrace.h=C:\Users\David\Documents\Borland Studio Projects\Sazkova Kancelář\form_registrace.h</Transaction>
+    <Transaction>2013.01.19 12:14:39.047.dfm,C:\Users\David\Documents\Borland Studio Projects\Sazkova Kancelář\Sazkova_Kancelar_Registrace.dfm=C:\Users\David\Documents\Borland Studio Projects\Sazkova Kancelář\form_registrace.dfm</Transaction>
+    <Transaction>2013.01.19 14:17:05.602.cpp,C:\Users\David\Documents\Borland Studio Projects\Sazkova Kancelář\Unit1.cpp=C:\Users\David\Documents\Borland Studio Projects\Sazkova Kancelář\form_bookmaker.cpp</Transaction>
+    <Transaction>2013.01.19 14:17:05.602.h,C:\Users\David\Documents\Borland Studio Projects\Sazkova Kancelář\Unit1.h=C:\Users\David\Documents\Borland Studio Projects\Sazkova Kancelář\form_bookmaker.h</Transaction>
+    <Transaction>2013.01.19 14:17:33.799.cpp,C:\Users\David\Documents\Borland Studio Projects\Sazkova Kancelář\form_bookmaker.cpp=</Transaction>
+    <Transaction>2013.01.19 14:17:47.503.cpp,C:\Users\David\Documents\Borland Studio Projects\Sazkova Kancelář\Unit2.cpp=C:\Users\David\Documents\Borland Studio Projects\Sazkova Kancelář\form_bookmaker.cpp</Transaction>
+    <Transaction>2013.01.19 14:17:47.503.h,C:\Users\David\Documents\Borland Studio Projects\Sazkova Kancelář\Unit2.h=C:\Users\David\Documents\Borland Studio Projects\Sazkova Kancelář\form_bookmaker.h</Transaction>
+    <Transaction>2013.01.19 14:17:47.503.dfm,C:\Users\David\Documents\Borland Studio Projects\Sazkova Kancelář\Unit2.dfm=C:\Users\David\Documents\Borland Studio Projects\Sazkova Kancelář\form_bookmaker.dfm</Transaction>
+    <Transaction>2013.01.19 14:18:02.772.cpp,C:\Users\David\Documents\Borland Studio Projects\Sazkova Kancelář\Unit1.cpp=C:\Users\David\Documents\Borland Studio Projects\Sazkova Kancelář\form_uzivatel.cpp</Transaction>
+    <Transaction>2013.01.19 14:18:02.772.h,C:\Users\David\Documents\Borland Studio Projects\Sazkova Kancelář\Unit1.h=C:\Users\David\Documents\Borland Studio Projects\Sazkova Kancelář\form_uzivatel.h</Transaction>
+    <Transaction>2013.01.19 14:18:02.772.dfm,C:\Users\David\Documents\Borland Studio Projects\Sazkova Kancelář\Unit1.dfm=C:\Users\David\Documents\Borland Studio Projects\Sazkova Kancelář\form_uzivatel.dfm</Transaction>
+    <Transaction>2013.01.19 14:30:41.357.cpp,C:\Users\David\Documents\Borland Studio Projects\Sazkova Kancelář\form_seznam_bookmakeru.cpp=</Transaction>
+    <Transaction>2013.01.19 14:30:41.357.dfm,C:\Users\David\Documents\Borland Studio Projects\Sazkova Kancelář\form_seznam_bookmakeru.dfm=</Transaction>
+    <Transaction>2013.01.19 15:57:37.738.cpp,C:\Users\David\Documents\Borland Studio Projects\Sazkova Kancelář\form_registrace.cpp=</Transaction>
+    <Transaction>2013.01.19 15:57:37.738.dfm,C:\Users\David\Documents\Borland Studio Projects\Sazkova Kancelář\form_registrace.dfm=</Transaction>
+    <Transaction>2013.01.19 15:57:42.667.cpp,C:\Users\David\Documents\Borland Studio Projects\Sazkova Kancelář\form_bookmaker.cpp=</Transaction>
+    <Transaction>2013.01.19 15:57:42.667.dfm,C:\Users\David\Documents\Borland Studio Projects\Sazkova Kancelář\form_bookmaker.dfm=</Transaction>
+    <Transaction>2013.01.19 15:57:56.444.cpp,C:\Users\David\Documents\Borland Studio Projects\Sazkova Kancelář\form_uzivatel.cpp=</Transaction>
+    <Transaction>2013.01.19 15:57:56.444.dfm,C:\Users\David\Documents\Borland Studio Projects\Sazkova Kancelář\form_uzivatel.dfm=</Transaction>
+  </Transactions>
+</BorlandProject>
