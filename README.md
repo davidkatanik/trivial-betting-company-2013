@@ -1,2 +1,3 @@
 # trivial-betting-company-2013
-High school project
+My first high school project only for fun
+
